@@ -1,2 +1,4 @@
 # linux-
-linux一些配置
+linux shell simple study
+
+linux shell的简单使用
